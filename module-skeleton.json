@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-content-templates-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-content-templates",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-content-templates-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/content-templates.md",
+  "presentationPlan": "projects/cms/nuxt/content-templates.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
